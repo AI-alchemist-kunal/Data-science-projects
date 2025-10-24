@@ -1,0 +1,11 @@
+# Virtual Environment
+.venv/
+
+# Data Files (optional, depends if you want to commit the generated data)
+# ab_test_data.csv 
+
+# IDE/System files
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
